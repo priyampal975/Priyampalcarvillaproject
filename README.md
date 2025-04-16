@@ -314,8 +314,7 @@
                             <p>+91 9369315762</p>
                         </td>
                         <td rowspan="2" colspan="2">
-
-                        </td>
+</td>
                         <td>
                             <a href="">Infiniti</a>
                         </td>
