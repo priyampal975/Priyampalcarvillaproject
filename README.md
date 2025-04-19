@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home | CarVilla</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="shortcut icon" href="Images/Favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="WhatsApp Image 2025-04-17 at 12.54.51 AM-2.jpeg type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
