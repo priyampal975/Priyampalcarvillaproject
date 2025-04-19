@@ -35,8 +35,8 @@
         </nav>
     </header>
     <main>
-        <div id="page1bgImage">
-            <img src="Images/bg_Image1.jpg" alt="">
+        <div id="">
+            <img src="(https://github.com/priyampal975/Priyampalcarvillaproject/blob/main/WhatsApp%20Image%202025-04-17%20at%2012.54.51%20AM-2.jpeg?raw=true)" alt="">[
         </div>
         <div class="mainPages" id="page1">
                 <h1>GET YOUR DESIRED CAR IN REASONABLE PRICE</h1>
